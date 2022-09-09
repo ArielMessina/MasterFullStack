@@ -1,0 +1,54 @@
+*
+{
+    margin: 10;
+    padding: 0;
+}
+
+
+header
+{
+    width: 99%;
+    height: 20px;
+    background-color: rgb(181, 181, 181);
+    margin: auto;
+    text-align: right;
+    padding: 15px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imgS
+{
+    padding: 2px 450px;
+}
+
+main
+{
+    padding: 2px 415px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirdPic
+{
+    padding: 2px 400px;
+}
+
+section p
+{
+    padding: 2px 415px ;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer
+{
+    width: 99%;
+    height: 20px;
+    background-color: rgb(181, 181, 181);
+    padding: 0px 5px;
+}
+
+footer p
+{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0,5px;
+}
