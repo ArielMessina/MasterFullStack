@@ -1,0 +1,85 @@
+.navbar-brand img {
+    width: 100px;
+}
+
+#boton_verde {
+    color: #25a342
+}
+
+.carousel-item {
+    opacity: .8;
+}
+
+#colorReact {
+    color: white;
+    background-color: rgba(23, 162, 183, 255);
+}
+
+.oradores {
+    text-align: center;
+    text-decoration: none;
+}
+
+.contenedor {
+    display: flex;
+    align-items: flex-start;
+    justify-content:center;
+}
+
+#margen
+{
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+#colorStartups {
+    color: white;
+    background-color: #db3544;
+}
+
+#colorNegocios {
+    color: white;
+    background-color: #6c757c;
+}
+
+#contain {   
+    margin: 0;
+    padding: 0;
+    border-top: 2px double lightgrey;
+}
+.dotted
+{
+    border-bottom: 2px dotted black;
+    text-decoration: none; 
+}
+
+#texto{
+    border-left: 1px double lightgrey;
+    background-color: #353a40;
+    color: white;
+}
+
+#formulario
+{
+    justify-content:right;
+}
+
+#enviar{
+    background-color: #96c93e;
+    color: white;
+}
+
+#texto_footer {
+    /* margin-left: 200px; 
+    justify-content:center;
+    align-items:center;*/
+    padding-right: 118px;
+    padding-top: 10px;
+    color: white;
+}
+#fondopie{
+    /* display: flex;
+    align-items: flex-start;
+    justify-content:center; */  
+    background-color: #1d4358;
+}
