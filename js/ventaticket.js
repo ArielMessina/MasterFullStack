@@ -122,7 +122,7 @@ function quitarClaseError()
 //Desarrollo funcion 
 function reset_total_a_pagar()
 {
-   // quitarClaseError();
+    quitarClaseError();
     totalPago.innerHTML=totalMostrar+"";
 }
 
