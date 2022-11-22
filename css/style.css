@@ -59,27 +59,72 @@
     color: white;
 }
 
-#formulario
-{
-    justify-content:right;
+#estudiante{
+    border: 2px solid blue; 
 }
 
-#enviar{
+#trainee{
+    border: 2px solid green; 
+}
+#junior{
+    border: 2px solid orange; 
+}
+.venta{
+    text-align: center;
+}
+
+#valor{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.FlexContainer
+{
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-around;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    font-size: large;
+}
+.fuente_chica{
+    font-size:small;
+}
+
+.FlexContainer > div
+{
+    width: 250px;
+    height: 250px;
+}
+
+
+#enviar,#btnBorrar,#btnResumen{
     background-color: #96c93e;
     color: white;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: left;
+}
+
+#totalPago{
+    margin-left: 1.3%;
+    text-align: left;
+}
+
+#btnBorrar{
+    margin-left: 1.4%;
+}
+#btnResumen{
+    margin-left: 2.4%;
 }
 
 #texto_footer {
-    /* margin-left: 200px; 
-    justify-content:center;
-    align-items:center;*/
     padding-right: 118px;
     padding-top: 10px;
     color: white;
 }
 #fondopie{
-    /* display: flex;
-    align-items: flex-start;
-    justify-content:center; */  
     background-color: #1d4358;
 }
